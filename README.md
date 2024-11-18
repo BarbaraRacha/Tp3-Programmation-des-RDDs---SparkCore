@@ -13,7 +13,7 @@
   <img src="images/img_2.png">
 </div>
 
-<h2> 2. Vous créez une deuxième application permettant de calculer le prix total des ventes des produits par ville pour une année donnée. </h2>
+<h2> 2. Vous créez une deuxième application permettant de calculer le prix total des ventes des produits par ville </h2>
 <div styles="display: flex;">
   <img src="images/img_3.png">
   <img src="images/img_4.png">
