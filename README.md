@@ -6,8 +6,10 @@
   <br>
   La structure du fichier ventes.txt est de la forme suivante : "date ville produit prix" </h2>
 <br>
+<h2>Code: </h2>
 <img src="images/img_1.png">
 
+<h2>Sortie: </h2>
 <div styles="display: flex;">
   <img src="images/img.png">
   <img src="images/img_2.png">
